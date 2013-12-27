@@ -1,1 +1,1 @@
-* [Bursary Guidelines](Bursary Guidlines.md)
+* [Bursary Guidelines](Bursary Guidelines.md)
