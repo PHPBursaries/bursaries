@@ -1,1 +1,1 @@
-/home/justin/git/bursaries/Bursary Guidelines.md
+* [Bursary Guidelines](Bursary Guidlines.md)
